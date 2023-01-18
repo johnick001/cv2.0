@@ -75,8 +75,8 @@ p
 .bottom-cloud
 {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 325px;
+  bottom: 280px;
 }
 
 .mountain{
@@ -132,7 +132,7 @@ p
   clear: right;
 }
 
-.chain-img
+.bike-img
 {
   width: 25%;
   float: right;
