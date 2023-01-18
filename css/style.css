@@ -79,6 +79,11 @@ p
   bottom: 300px;
 }
 
+.mountain{
+  max-width: 100%;
+  position: relative  ;
+}
+
 .pro
 {
   text-decoration: underline;
